@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fourth Year\\Software Engineering 2\\Projects\\PRODUCTS Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09AF034-F9EB-4A9A-852B-F21BA3891330}|PRODUCTS Management\\PRODUCTS Management.csproj|d:\\fourth year\\software engineering 2\\projects\\products management\\products management\\dal\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09AF034-F9EB-4A9A-852B-F21BA3891330}|PRODUCTS Management\\PRODUCTS Management.csproj|solutionrelative:products management\\dal\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 241,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 9,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "D:\\Fourth Year\\Software Engineering 2\\Projects\\PRODUCTS Management\\PRODUCTS Management\\DAL\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "PRODUCTS Management\\DAL\\DataAccessLayer.cs",
+              "ToolTip": "D:\\Fourth Year\\Software Engineering 2\\Projects\\PRODUCTS Management\\PRODUCTS Management\\DAL\\DataAccessLayer.cs",
+              "RelativeToolTip": "PRODUCTS Management\\DAL\\DataAccessLayer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:09:07.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
