@@ -1,10 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Fourth Year\\Software Engineering 2\\Projects\\PRODUCTS Management\\",
+  "WorkspaceRootPath": "D:\\Products Management\\Products-Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D09AF034-F9EB-4A9A-852B-F21BA3891330}|PRODUCTS Management\\PRODUCTS Management.csproj|d:\\fourth year\\software engineering 2\\projects\\products management\\products management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D09AF034-F9EB-4A9A-852B-F21BA3891330}|PRODUCTS Management\\PRODUCTS Management.csproj|solutionrelative:products management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|d:\\products management\\products-management\\products management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|solutionrelative:products management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|d:\\products management\\products-management\\products management\\pl\\form_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|solutionrelative:products management\\pl\\form_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|D:\\Products Management\\Products-Management\\products management\\pl\\form_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|solutionrelative:products management\\pl\\form_add_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|d:\\products management\\products-management\\products management\\bl\\cls_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|solutionrelative:products management\\bl\\cls_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|d:\\products management\\products-management\\products management\\bl\\cls_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|solutionrelative:products management\\bl\\cls_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|D:\\Products Management\\Products-Management\\products management\\pl\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|solutionrelative:products management\\pl\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|d:\\products management\\products-management\\products management\\pl\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|solutionrelative:products management\\pl\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|d:\\products management\\products-management\\products management\\pl\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|solutionrelative:products management\\pl\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|d:\\products management\\products-management\\products management\\pl\\formlogin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{61B7B717-E33B-F059-86A1-22E382401EA3}|PRODUCTS Management\\PRODUCTS Management.csproj|solutionrelative:products management\\pl\\formlogin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,30 +46,128 @@
       "DocumentGroups": [
         {
           "DockedHeight": 241,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FORM_ADD_PRODUCT.cs",
+              "DocumentMoniker": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\PL\\FORM_ADD_PRODUCT.cs",
+              "RelativeDocumentMoniker": "PRODUCTS Management\\PL\\FORM_ADD_PRODUCT.cs",
+              "ToolTip": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\PL\\FORM_ADD_PRODUCT.cs*",
+              "RelativeToolTip": "PRODUCTS Management\\PL\\FORM_ADD_PRODUCT.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAjwDgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:45:23.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\Program.cs",
+              "RelativeDocumentMoniker": "PRODUCTS Management\\Program.cs",
+              "ToolTip": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\Program.cs*",
+              "RelativeToolTip": "PRODUCTS Management\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T14:28:46.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FORM_ADD_PRODUCT.cs [Design]",
+              "DocumentMoniker": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\PL\\FORM_ADD_PRODUCT.cs",
+              "RelativeDocumentMoniker": "PRODUCTS Management\\PL\\FORM_ADD_PRODUCT.cs",
+              "ToolTip": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\PL\\FORM_ADD_PRODUCT.cs [Design]*",
+              "RelativeToolTip": "PRODUCTS Management\\PL\\FORM_ADD_PRODUCT.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:21:37.552Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CLS_PRODUCTS.cs",
+              "DocumentMoniker": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\BL\\CLS_PRODUCTS.cs",
+              "RelativeDocumentMoniker": "PRODUCTS Management\\BL\\CLS_PRODUCTS.cs",
+              "ToolTip": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\BL\\CLS_PRODUCTS.cs",
+              "RelativeToolTip": "PRODUCTS Management\\BL\\CLS_PRODUCTS.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:56:57.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClS_LOGIN.cs",
+              "DocumentMoniker": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\BL\\ClS_LOGIN.cs",
+              "RelativeDocumentMoniker": "PRODUCTS Management\\BL\\ClS_LOGIN.cs",
+              "ToolTip": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\BL\\ClS_LOGIN.cs",
+              "RelativeToolTip": "PRODUCTS Management\\BL\\ClS_LOGIN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:57:36.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\PL\\FormMain.cs",
+              "RelativeDocumentMoniker": "PRODUCTS Management\\PL\\FormMain.cs",
+              "ToolTip": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\PL\\FormMain.cs [Design]",
+              "RelativeToolTip": "PRODUCTS Management\\PL\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:45:44.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\PL\\FormMain.cs",
+              "RelativeDocumentMoniker": "PRODUCTS Management\\PL\\FormMain.cs",
+              "ToolTip": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\PL\\FormMain.cs",
+              "RelativeToolTip": "PRODUCTS Management\\PL\\FormMain.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAewDgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T13:50:18.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\PL\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "PRODUCTS Management\\PL\\FormMain.Designer.cs",
+              "ToolTip": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\PL\\FormMain.Designer.cs",
+              "RelativeToolTip": "PRODUCTS Management\\PL\\FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T15:06:39.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormLogin.resx",
+              "DocumentMoniker": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\PL\\FormLogin.resx",
+              "RelativeDocumentMoniker": "PRODUCTS Management\\PL\\FormLogin.resx",
+              "ToolTip": "D:\\Products Management\\Products-Management\\PRODUCTS Management\\PL\\FormLogin.resx",
+              "RelativeToolTip": "PRODUCTS Management\\PL\\FormLogin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-03T14:41:33.263Z"
             }
           ]
         },
         {
           "DockedHeight": 9,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Fourth Year\\Software Engineering 2\\Projects\\PRODUCTS Management\\PRODUCTS Management\\Form1.cs",
-              "RelativeDocumentMoniker": "PRODUCTS Management\\Form1.cs",
-              "ToolTip": "D:\\Fourth Year\\Software Engineering 2\\Projects\\PRODUCTS Management\\PRODUCTS Management\\Form1.cs [Design]",
-              "RelativeToolTip": "PRODUCTS Management\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T22:07:24.104Z",
-              "EditorCaption": " [Design]"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"

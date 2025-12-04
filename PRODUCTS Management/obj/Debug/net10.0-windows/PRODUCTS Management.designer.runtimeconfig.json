@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Waled Hiadar\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Waled Hiadar\\.nuget\\packages",
+      "C:\\Users\\Waleed Haidar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Waleed Haidar\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
